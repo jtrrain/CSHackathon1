@@ -1,0 +1,11 @@
+{
+    "name": "Today in History",
+    "version": "1.0.0",
+    "discription": "This is an extension that shares a historic event that occured on today's date",
+    "manifest_version": 3,
+    "author": "Jerry and William",
+    "action": {
+        "default_popup": "index.html",
+        "defult_title": "Today in History"
+    }
+}
